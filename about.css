@@ -1,0 +1,63 @@
+body{
+  background-color: #FFFAFA;
+}
+.head1{
+	background-color: #9ACD32;
+	color: white;
+	font-family: 'Literata', serif;
+}
+.matter{
+	background-color: #FAF0E6;
+}
+.head{
+	font-family: 'Literata', serif;
+    color:#8B4513;
+}
+.head3{
+	font-family: 'David Libre', serif;
+	color:#FFA500;
+}
+.info{
+	 color:#BC8F8F;
+	font-family: 'David Libre', serif;
+}
+.sub1{
+	background-color:#DEB887;
+	color: #8B4513;
+}
+.imag img{
+	height: 500px;
+}
+.images {
+	height: 250px;
+	width: 200px;
+	margin-left: 10px;
+	
+}
+.middle{
+	top: 50%;
+	width: 100%;
+
+}
+.symbol{
+	color:#8B4513 ;
+	background:  #FAF0E6;
+}
+.pic1 img,.pic2 img,.pic3 img,.pic4 img{
+	transition: .5s all ease-in-out;
+}
+
+.pic1:hover img,.pic2:hover img,.pic3:hover img,.pic4:hover img{
+	transform: scale(1.1);
+}
+.matter2{
+	background-color:black;
+}
+.head4{
+	color: white;
+	font-family: 'Literata', serif;
+}
+.image5{
+	height: 300px;
+	width: 600px;
+}
