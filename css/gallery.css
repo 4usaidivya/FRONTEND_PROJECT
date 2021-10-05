@@ -1,0 +1,41 @@
+body{
+  background-color: #FFFAFA;
+}
+.head1{
+	background-color: #9ACD32;
+	color: white;
+	font-family: 'Literata', serif;
+}
+.head{
+	font-family: 'Literata', serif;
+    color:#8B4513;
+}
+.head3{
+	font-family: 'David Libre', serif;
+	color:#FFA500;
+}
+
+.image img{
+	height:200px;
+	width:200px;
+}
+.gallery{
+	display: grid;
+	grid-template-columns: repeat(auto-fit,minmax(200px,1fr));
+	grid-gap: 15px;
+	margin: 10px 5px;
+	justify-items:center;
+}
+.gallery img{
+	display: block;
+	box-shadow:1px 1px 5px black;
+	
+}
+.gallery img:hover{
+	filter: grayscale(100%);
+	transform: scale(1.1);
+}
+.content{
+	padding-left: 50px;
+	padding-right: 50px;
+}

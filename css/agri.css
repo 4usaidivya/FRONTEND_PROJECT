@@ -1,0 +1,41 @@
+body{
+  background-color: #FFFAFA;
+}
+.head1{
+	background-color: #9ACD32;
+	color: white;
+	font-family: 'Literata', serif;
+}
+.image1 img{
+	height: 500px;
+	width: 100%;
+}
+.head{
+	font-family: 'Literata', serif;
+  color:#8B4513;
+}
+
+.info{
+	color:#BC8F8F;
+	font-family: 'David Libre', serif;
+}
+.box{
+	background-color: #9ACD32;
+	color: white;
+	font-family: 'David Libre', serif;
+}
+.image2 img{
+	height: 250px;
+	width: 250px;
+}
+.image3 img{
+	height:700px;
+	width:100%;
+}
+.image4 img{
+	height: 200px;
+	width: 280px;
+}
+.img-border{
+	border-radius:15px;
+}

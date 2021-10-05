@@ -1,0 +1,97 @@
+body{
+  background-color: #FFFAFA;
+}
+
+	/*----------------nav bar-----------------*/
+/*------nav logo------*/
+
+.navbar{
+ background-color: white !important;
+}
+.logo img{
+  height:100px;
+}
+/*-----menu-----*/
+.slideinfo,.head4{
+	font-family: 'Literata', serif;
+	
+}
+.info,.info li{
+	 color:#BC8F8F;
+	font-family: 'David Libre', serif;
+}
+/*------slides------*/
+.slidetext,.head2,.head3{
+	font-family: 'David Libre', serif;
+}
+.head2{
+	  color:#D2B48C;
+}
+/*--------footer--------*/
+.head{
+  font-family: 'Literata', serif;
+  color:#8B4513;
+}
+.info li{
+  list-style:none;
+}
+/*-----forms------*/
+.middle{
+	top: 50%;
+	width: 100%;
+
+}
+.icon{
+	color: white;
+	background: #9ACD32;
+}
+.mail,.matter,.icon1{
+	background-color: #FAF0E6;
+}
+.sub{
+	background-color: #8B4513;
+	color: white;
+}
+.icons{
+	display:flex;
+	list-style: none;
+	top: 50%;
+	left: 50%;
+
+
+}
+.icon1{
+	color: #8B4513;
+	width: 80px;
+	height: 80px;
+	line-height: 70px;
+	font-size: 40px;
+	margin: 0 10px;
+	display: block;
+	border-radius: 50%;
+
+}
+.head3{
+	color:#FFA500;
+}
+.picture img{
+	height: 500px;
+}
+.sub1{
+	background-color:#DEB887;
+	color: #8B4513;
+}
+.picture2{
+	height: 300px;
+	width: 600px;
+}
+.matter2{
+	background-color:black;
+}
+.head4{
+	color: white;
+}
+.symbol{
+	color:#8B4513 ;
+	background:  #FAF0E6;
+}
